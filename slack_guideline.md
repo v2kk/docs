@@ -1,4 +1,4 @@
-Hello, {userIdList} welcome to Grokking Vietnam
+Hello, {user} welcome to Grokking Vietnam
 
 Here are some community rules you should follow:
 - Be nice. Ask nicely.
