@@ -2,7 +2,7 @@ Welcome to Grokking community! Hope you’ll have a good time connecting with fe
 
 1. See below a list of all the channels you might be interested in:
 *General channels:*
-><#announcements>: Announcements from Grokking
+>#announcements: Announcements from Grokking
 >#general-discussions: A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels
 >#feedback - Contact channel admins and give feedback
 >#singapore - Vietnamese software engineers in Singapore
