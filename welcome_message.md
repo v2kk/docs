@@ -1,4 +1,4 @@
-Hello, <userIds> welcome to {channel}!
+Hello, {userIds} welcome to {channel}!
 Can you introduce yourself in this format:
   1. Tên + tuổi
   2. Nghề nghiệp. Location
