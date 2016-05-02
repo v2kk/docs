@@ -23,4 +23,4 @@ Welcome to Grokking community! Hope you’ll have a good time connecting with fe
 ><#C0V82JK08|ui_ux>
 
 
-2- Do help spend a moment to review our community guideline: bit.ly/grokking-community-guideline. If you have any feedback or want to speak to group’s admins, seek us out at #feedback
+2- Do help spend a moment to review our community guideline: bit.ly/grokking-community-guideline. If you have any feedback or want to speak to group’s admins, seek us out at <#C138KUG2H|feedback>
