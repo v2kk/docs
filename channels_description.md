@@ -1,6 +1,11 @@
 Welcome to Grokking community! Hope you’ll have a good time connecting with fellow Vietnamese software engineers here.
 
-1. See below a list of all the channels you might be interested in:
+1/ If you haven't, install **Slack on your Desktop**  to keep Grokking's Slack in the background (think IRC) - https://slack.com/downloads
+
+2/ Do help spend a moment to review our community guideline: bit.ly/grokking-community-guideline. If you have any feedback or want to speak to group’s admins, seek us out at <#C138KUG2H|feedback>
+
+3/ See below a list of all the channels you might be interested in:
+
 *General channels:*
 ><#C0ES9BYR4|announcements>: Announcements from Grokking
 ><#C0ESAC2G0|general-discussions>: A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels
@@ -20,7 +25,6 @@ Welcome to Grokking community! Hope you’ll have a good time connecting with fe
 ><#C0H9EDB47|frontend>: All the front-end programming and javascript
 ><#C0PCND12A|gamedev>: Game development talks here
 ><#C0RSSTN74|java>: Java, the JVM and their ecosystems
-><#C0V82JK08|ui_ux>
+><#C0V82JK08|ui_ux>: All things beautiful and usable ;)
 
 
-2- Do help spend a moment to review our community guideline: bit.ly/grokking-community-guideline. If you have any feedback or want to speak to group’s admins, seek us out at <#C138KUG2H|feedback>
