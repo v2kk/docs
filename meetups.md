@@ -2,6 +2,18 @@
 
 You'll find list of our Grokking meetups from the beginning. For a list of meetup topics to be selected for presentation, please head to "Issues".
 
+## Meetup 09 - March 29, 2016
+
+![Meetup 8](./images/meetup08.jpg)
+
+* **Building a realtime & offline editing service from scratch with Couchbase** - Vu Nguyen, CTO @ Liti Book (Vietnamese) 
+* **Secure Coding** - Tran Anh Tuan, Security Engineer @ VietABank (Vietnamese)
+* **When a Java guy goes Ruby** - Jonathan Bardin, Technical Architect @ TINYpulse (English)
+
+##### Info
+* Sponsor: TINYpulse
+* [Event](https://www.facebook.com/events/950369215012812/) | [Photos](https://www.facebook.com/media/set/?set=a.1031087110292590.1073741837.764146283653342)
+
 ## Meetup 08 - A Date With DevOps - Feb 27, 2016
 
 ![Meetup 8](./images/meetup08.jpg)
