@@ -2,17 +2,34 @@
 
 You'll find list of our Grokking meetups from the beginning. For a list of meetup topics to be selected for presentation, please head to "Issues".
 
+
+## Meetup 11 - DATA - March 29, 2016
+
+![Meetup 11](./images/meetup11.jpg)
+
+* **Why data science?** - An Mai (Vietnamese, slides in English)
+* **Introduction to some probabilistics data-structures for real-time processing** - Vo Viet Hung (Vietnamese, slides in English)
+* **Reactive Data System in Practice at iTVad** - Trieu Tan Nguyen (Vietnamese, slides in English)
+
+##### Info
+
+* Sponsor: TINYpulse
+* [Event](https://www.facebook.com/events/1253414338006273/) | [Photos](https://www.facebook.com/media/set/?set=a.1049353048465996.1073741838.764146283653342)
+
+
 ## Meetup 09 - March 29, 2016
 
-![Meetup 8](./images/meetup08.jpg)
+![Meetup 9](./images/meetup09.jpg)
 
 * **Building a realtime & offline editing service from scratch with Couchbase** - Vu Nguyen, CTO @ Liti Book (Vietnamese) 
 * **Secure Coding** - Tran Anh Tuan, Security Engineer @ VietABank (Vietnamese)
 * **When a Java guy goes Ruby** - Jonathan Bardin, Technical Architect @ TINYpulse (English)
 
 ##### Info
+
 * Sponsor: TINYpulse
 * [Event](https://www.facebook.com/events/950369215012812/) | [Photos](https://www.facebook.com/media/set/?set=a.1031087110292590.1073741837.764146283653342)
+
 
 ## Meetup 08 - A Date With DevOps - Feb 27, 2016
 
@@ -28,7 +45,7 @@ You'll find list of our Grokking meetups from the beginning. For a list of meetu
 * [Event](https://www.facebook.com/events/1651426405122455/) | [Photos](https://www.facebook.com/media/set/?set=a.1006854916049143.1073741835.764146283653342&type=3)
 
 
-## Meetup 6 - Grokking Coding Challenge - 6/12/2015
+## Meetup 06 - Grokking Coding Challenge - 6/12/2015
 
 ![Event photo](./images/meetup06.jpg)
 
@@ -39,7 +56,7 @@ You'll find list of our Grokking meetups from the beginning. For a list of meetu
 [Photos](https://www.facebook.com/media/set/?set=a.961722197229082.1073741832.764146283653342&type=1&l=06208f75a2) |
 [Event Link](https://www.facebook.com/events/423555677848446/)
 
-## Meetup 5
+## Meetup 05
 
 ##### Talks
 
@@ -52,7 +69,7 @@ You'll find list of our Grokking meetups from the beginning. For a list of meetu
 * Venue Sponsor: Air Lounge (Silicon Straits Saigon)
 
 
-## Meetup 4
+## Meetup 04
 
 ![Event photo](./images/meetup04.jpg)
 
@@ -67,7 +84,7 @@ You'll find list of our Grokking meetups from the beginning. For a list of meetu
 * **How to implement Flux Architecture on mobile (Native)**, Pham Duc Huy (Software Engineer, Lozi.vn)
 * **HtmlJs - JavaScript MVVM framework**, Nhan (Software Engineer, Play Studio)
 
-## Meetup 3 - Real-time Data Pipeline & Real-world Microservice Architecture
+## Meetup 03 - Real-time Data Pipeline & Real-world Microservice Architecture
 
 * [Facebook Event](https://www.facebook.com/events/864085826964097/)
 * Venue Sponsor: Sentifi
@@ -77,7 +94,7 @@ You'll find list of our Grokking meetups from the beginning. For a list of meetu
 * **Migrating to service-oriented architecture at LOZI**, Nguyen Thanh Trung (C​TO/Co-founder of LOZI)
 * **Building Real-time Data Pipeline at FPT**, Nguyen Tan Trieu (T​echnical lead and full-stack engineer at FPT)
 
-## Meetup 2 - Build big things from small components
+## Meetup 02 - Build big things from small components
 
 * [Facebook Event](https://www.facebook.com/events/321724054703790/)
 * Venue Sponsor: Officience
@@ -87,7 +104,7 @@ You'll find list of our Grokking meetups from the beginning. For a list of meetu
 * **Building microservices web application using Akka & Scala**, Binh Nguyen (Director of Engineering, Anduin Transactions)
 * **A journey with Artificial Neural Network (ANN) in solving real-world problems**, Steven Goh (Founder, Nubela Corp)
 
-## Meetup 1 - Kick-off Talk
+## Meetup 01 - Kick-off Talk
 
 ![Meetup 1](./images/meetup01.jpg)
 
