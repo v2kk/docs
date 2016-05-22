@@ -1,6 +1,6 @@
 # Grokking Meetups
 
-You'll find list of our Grokking meetups from the beginning. For a list of meetup topics to be selected for presentation, please head to "Issues".
+You'll find list of our Grokking meetups from the beginning.
 
 
 ## Meetup 11 - DATA - March 29, 2016
