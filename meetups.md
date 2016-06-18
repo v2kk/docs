@@ -3,6 +3,20 @@
 You'll find list of our Grokking meetups from the beginning.
 
 
+## Meetup 12 - Programming Languages and Paradigms - March 29, 2016
+
+![Meetup 12](./images/meetup12.jpg)
+
+* **Full stack Scala web application** - Cuong Pham
+* **Writing code that writes code** - Nguyen Luong
+* **Code productively in any language with testing and live reloading** - Harley Trung
+
+##### Info
+
+* Sponsor: TINYpulse
+* [Event](https://www.facebook.com/events/594238287419155/) | [Photos](https://www.facebook.com/grokking.engineering/photos/?tab=album&album_id=1070310999703534)
+
+
 ## Meetup 11 - DATA - March 29, 2016
 
 ![Meetup 11](./images/meetup11.jpg)
