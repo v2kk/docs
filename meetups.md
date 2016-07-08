@@ -3,7 +3,21 @@
 You'll find list of our Grokking meetups from the beginning.
 
 
-## Meetup 12 - Programming Languages and Paradigms - March 29, 2016
+## Meetup 13 - Searches - June 25, 2016
+
+![Meetup 13](./images/meetup13.jpg)
+
+* **Marrying Elasticsearch with NLP to solve real-world search problems** - Phu Le (Country Manager / Head of R&D, Knorex)
+* **Scaling and supercharging your online business models with Elasticsearch** - Tri Tran (Lead Developer, 8Bit Rockstars)
+
+##### Info
+
+* Sponsor: TINYpulse
+* Venue Sponsor: MySquar
+* [Event](https://www.facebook.com/events/194454270949757/) | [Photos](https://www.facebook.com/grokking.engineering/photos/?tab=album&album_id=1085866281481339)
+
+
+## Meetup 12 - Programming Languages and Paradigms - May 28, 2016
 
 ![Meetup 12](./images/meetup12.jpg)
 
@@ -17,7 +31,7 @@ You'll find list of our Grokking meetups from the beginning.
 * [Event](https://www.facebook.com/events/594238287419155/) | [Photos](https://www.facebook.com/grokking.engineering/photos/?tab=album&album_id=1070310999703534)
 
 
-## Meetup 11 - DATA - March 29, 2016
+## Meetup 11 - DATA - April 23, 2016
 
 ![Meetup 11](./images/meetup11.jpg)
 
