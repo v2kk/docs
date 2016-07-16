@@ -1,7 +1,8 @@
 # Grokking Meetups
 
-You'll find list of our Grokking meetups from the beginning.
+[Click here to check our upcoming events](https://www.facebook.com/grokking.engineering/events)
 
+You'll find list of our Grokking meetups from the beginning.
 
 ## Meetup 13 - Searches - June 25, 2016
 
