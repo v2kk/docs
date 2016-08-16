@@ -4,6 +4,20 @@
 
 You'll find list of our Grokking meetups from the beginning.
 
+## Meetup 14 - Database Systems - August 6, 2016
+
+![Meetup 14](./images/meetup14.jpg)
+
+* **Why you should use PostgreSQL for your data analytics infrastructure** - Huy Nguyen (Holistics)
+* **Couchbase: NoSQL + Memcached + Real-time + Offline!** - Vu Nguyen (Liti Book)
+
+##### Info
+
+* Sponsor: TINYpulse
+* Venue Sponsor: Tiki
+* [Event](https://www.facebook.com/events/869225683183128/) | [Photos](https://www.facebook.com/grokking.engineering/photos/?tab=album&album_id=1113615842039716)
+
+
 ## Meetup 13 - Searches - June 25, 2016
 
 ![Meetup 13](./images/meetup13.jpg)
