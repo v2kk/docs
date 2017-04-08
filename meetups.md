@@ -4,6 +4,52 @@
 
 You'll find list of our Grokking meetups from the beginning.
 
+
+## Meetup 17 - Financial Technologies - April 8, 2017
+
+![Meetup 17](./images/meetup14.jpg)
+
+* **Introduction to Blockchain** - Do The Luan (CARDADO labo)
+* **Interbank Transfer Systems in Vietnam & Some Improvement Ideas** - Truong Bui (Former CTO, Timo Digital Bank, timo.vn)
+
+##### Info
+
+* Sponsor:
+* Venue Sponsor: Shinhan Future's Lab
+* [Event](https://www.facebook.com/events/202575453561443/) | [Photos](https://www.facebook.com/pg/grokking.engineering/photos/?tab=album&album_id=1355142854553679)
+
+
+## Meetup 16 - Front-End Technologies & Ecosystem - February 25, 2017
+
+![Meetup 16](./images/meetup14.jpg)
+
+* **Isomorphic Web Application @ Lozi.vn** - Thinh Nguyen (Web Developer - lozi.vn)
+* **Maybe functor in Javascript** - Lam Huynh (Senior FrontEnd Developer - 8Bit Rockstars Co. Ltd)
+* **HtmlJs and Three way binding** - Nhan Nguyen (Software Architect - FPT IS)
+* **Anduin Component Library** - Cong Pham (Product Designer - Anduin Transactions)
+
+##### Info
+
+* Sponsor:
+* Venue Sponsor: Shinhan Future's Lab
+* [Event](https://www.facebook.com/events/745385925637047/) | [Photos](https://www.facebook.com/pg/grokking.engineering/photos/?tab=album&album_id=1313377518730213)
+
+
+## Meetup 15 - Data Challenge in Logistics - October 9, 2016
+
+![Meetup 15](./images/meetup14.jpg)
+
+* **The data processing journey at AhaMove** - Thuc Nguyen
+* **Batching and routing of deliveries** - Ngoc Tran
+* **Architectural decisions @ Parcel Perform** - Khang Nguyen
+
+##### Info
+
+* Sponsor:
+* Venue Sponsor: The Ventures
+* [Event](https://www.facebook.com/events/1827540640795479/)
+
+
 ## Meetup 14 - Database Systems - August 6, 2016
 
 ![Meetup 14](./images/meetup14.jpg)
